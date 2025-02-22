@@ -10,9 +10,9 @@ global.qris = "chat admin"
 
 
 // GLOBAL SETTING
-global.owner = "6282123177848"
+global.owner = "62895322269616"
 global.namabot = "𝗗𝗲𝗹𝘁𝗮𝗥𝗬𝘂𝗫𝗶𝗩𝟭𝟲🐉"
-global.nomorbot = "6287825120566"
+global.nomorbot = "6895322269616"
 global.nameCreator = "𝗥𝗶𝘆𝗮𝗻𝗗𝗲𝘃𝗥𝘆𝘂𝘅𝗶🐉"
 global.linkyt = "https://whatsapp.com/channel/0029Vb0OAGQJ93wV18eWMG2i"
 global.autoJoin = false
